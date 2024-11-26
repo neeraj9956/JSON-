@@ -1,0 +1,389 @@
+{
+    "data": [
+        {
+            "custom_customer_category": "B2B",
+            "customer_group": "B2B",
+            "custom_cuisine": "Cuisine 102",
+            "customer_name": "Saloniiiii",
+            "custom_customer_code": "100459",
+            "custom_customer_name_a": "Customer Salmaan Name A",
+            "custom_customer_name_b": "Customer Salmaan Name B",
+            "customer_name_in_arabic": "Customer Salmaan Name Arabic",
+            "custom_customer_name_arabic_a": "Customer Salmaan Name Arabic A",
+            "custom_customer_name_arabic_b": "Customer Salmaan Name Arabic B",
+            "customer_type": "Individual",
+            "trade_license_no": "TLN1008",
+            "trade_license_expiry": "2025-02-08",
+            "custom_reference1_code": "Reference1 Code 1004",
+            "custom_reference1_desc": "Reference1 Desc 1004",
+            "custom_vat_reg_no": "5%",
+            "nationality": "Nationality",
+            "custom_reference2_code": "Reference2 Code 1004",
+            "custom_reference2_desc": "Reference2 Desc 1004",
+            "default_currency": "AED",
+            "custom_central_book": "0",
+            "default_price_list": "Standard Selling",
+            "industry": "Retail & Wholesale",
+            "customer_pos_id": "xyz",
+            "mobile_no": "9987514789",
+            "email_id": "jaleel098@yopmail.com",
+            "tax_id": "",
+            "tax_withholding_category": "",
+            "tax_category": "",
+            "loyalty_program": "",
+            "payment_terms": "",
+            "custom_customer_hierarchy": "",
+            "loyalty_program_tier": "xyz",
+            "default_commission_rate": 0.0,
+            "so_required": 0,
+            "dn_required": 0,
+            "is_frozen": 0,
+            "disabled": 0,
+            "custom_jh_classification_1_code": "JH Classification 1 Code",
+            "custom_jh_classification_1_desc": "JH Classification 1 Desc",
+            "custom_jh_classification_2_code": "JH Classification 2 Code",
+            "custom_jh_classification_2_desc": "JH Classification 2 Desc",
+            "custom_jh_classification_3_code": "JH Classification 3 Code",
+            "custom_jh_classification_3_desc": "JH Classification 3 Desc",
+            "custom_jh_classification_4_code": "JH Classification 4 Code",
+            "custom_jh_classification_4_desc": "JH Classification 4 Desc",
+            "custom_jh_classification_5_code": "JH Classification 5 Code",
+            "custom_jh_classification_5_desc": "JH Classification 5 Desc",
+            "custom_jh_classification_6_code": "JH Classification 6 Code",
+            "custom_jh_classification_6_desc": "JH Classification 6 Desc",
+            "custom_jh_classification_7_code": "JH Classification 7 Code",
+            "custom_jh_classification_7_desc": "JH Classification 7 Desc",
+            "custom_jh_classification_8_code": "JH Classification 8 Code",
+            "custom_jh_classification_8_desc": "JH Classification 8 Desc",
+            "custom_jh_classification_9_code": "JH Classification 9 Code",
+            "custom_jh_classification_9_desc": "JH Classification 9 Desc",
+            "custom_jh_classification_10_code": "JH Classification 10 Code",
+            "custom_jh_classification_10_desc": "JH Classification 10 Desc",
+            "accounts": [],
+            "portal_users": [],
+            "sales_team": [
+                // {
+                //     "name": "",
+                //     "idx": "",
+                //     "sales_person": "",
+                //     "allocated_percentage": "",
+                //     "allocated_amount": "",
+                //     "incentives": "",
+                //     "parent": "",
+                //     "parentfield": "",
+                //     "parenttype": ""
+                // }
+            ],
+            "credit_limits": [
+                // {
+                //     "name": "",
+                //     "idx": "",
+                //     "company": "",
+                //     "credit_limit": "",
+                //     "bypass_credit_limit_check": "",
+                //     "parent": "",
+                //     "parentfield": "",
+                //     "parenttype": ""
+                // }
+            ],
+            "custom_distribution_channel": [
+                {
+                    // "name": "",
+                    // "idx": "",
+                    "dccode": "03",
+                    "salesorganization": 2100,
+                    "division": "1234",
+                    "salesdistrictcode": "000008",
+                    "salesdistricttitle": "Aweer",
+                    "sales_office": 2112,
+                    "salesofficename": "Non Food -  Aweer",
+                    "salesgroup": 203,
+                    "salesgroupname": "TRADING",
+                    "account_at_customer": "SWE121",
+                    "abc_class": "",
+                    "currency": "AED",
+                    "pricegroup": "01",
+                    "pricegroupname": "Bulk buyer",
+                    "customerpricing_procedure": 1,
+                    "customerpricing_procedure_name": "Standard",
+                    "pricelist": "03",
+                    "pricelistname": "JBC Club-Loyalty Pnt",
+                    "customerstatisticgroup": 2,
+                    "customerstatisticgroupname": "Group 2",
+                    "authorization_group": "",
+                    "customergroupcode": 10,
+                    "customergrouptitle": "B Class Super Market",
+                    "deliveryplant": "",
+                    "deliverypriority": "02",
+                    "deliveryprioritydesc": "Priority Dispatch",
+                    "shipping_condition_code": "01",
+                    "shipping_condition_name": "standard",
+                    "rebate": "X",
+                    "pricing": "X",
+                    "subinvoice": "X",
+                    "accountassignmentgroupcode": "01",
+                    "accountassignmentgrouptitle": "Domestic Revenues",
+                    "tax_indicator": 1,
+                    "salespersoncode": "00001237",
+                    "salesemployee": "Abbas Thayyil",
+                    "emprespcode": "00001237",
+                    "empresponsible": "Haris Tharayil Melpully",
+                    "merchandiserrespcode": "",
+                    "merchandiserresponsible": "",
+                    "checkrespcode": "",
+                    "checkresponsible": "",
+                    "country3": "AE",
+                    "taxcategory": "MWST",
+                    "taxclassification": 1,
+                    "customergroup1": "",
+                    "customergroup1name": "",
+                    "customergroup2": "002",
+                    "customergroup2name": "ADNOC",
+                    "customergroup3": "003",
+                    "customergroup3name": "Aweer Market",
+                    "customergroup4": "004",
+                    "customergroup4name": "T1-2131",
+                    "customergroup5": "",
+                    "customergroup5name": "",
+                    "customergroup6": "",
+                    "customergroup6name": "",
+                    "customergroup7": "",
+                    "customergroup7name": "",
+                    "customergroup8": "",
+                    "customergroup9name": "",
+                    "customergroup10": "",
+                    "customergroup10name": "",
+                    "sales_order_block_all": "",
+                    "sales_order_block_selected": "01",
+                    "delivery_block_all": "",
+                    "delivery_block_selected": "06",
+                    "billing_block_all": 34,
+                    "billing_block_selected": 33,
+                    "reference1code": "",
+                    "reference1desc": "",
+                    "reference2code": "",
+                    "reference2desc": "",
+                    "customerheirarchycode": "0000000098",
+                    "customerheirarchytitle": "JT Credit Customer 90 Days",
+                    "validityfrom": 20241010,
+                    "validityto": 99991231,
+                    "parent": "",
+                    "parentfield": "",
+                    "parenttype": ""
+                }
+            ],
+            "custom_customer_company": [
+                {
+                    // "name": "",
+                    // "idx": "",
+                    "company_code": "Jaleel",
+                    "reconaccount_code": "ReconAccount Code 001",
+                    "reconaccount_title": "ReconAccount Title 001",
+                    "head_office": "Head office 002",
+                    "sort_key": "Sort key 001",
+                    "previous_account_no": "Previous Account No. 001",
+                    "personnel_no": "Personnel No 001",
+                    "buying_group": "Buying Group 001",
+                    "paymentterm_code": "PaymentTerm Code 001",
+                    "paymentterm_title": "PaymentTerm Title 001",
+                    "credit_limit": 5000.0,
+                    "validity_to": "2025-03-06",
+                    "payment_method": "Cash",
+                    "payment_block": 0,
+                    "vendor_code": "Vendor Code 001",
+                    "clerkinternet": "ClerkInternet 001",
+                    "account_customer": "Account Customer 001",
+                    "customer_insurance_no": 1000121212,
+                    "block_all": 0,
+                    "block_selected": "",
+                    "stock_reservation_required": 0,
+                    "delivery_area_code": "Delivery Area Code 001",
+                    "delivery_area_desc": "AD - KHALIDIYA STREET",
+                    "customer_text": "Customer Text",
+                    "customer_type": "Customer Type",
+                    "parent": "",
+                    "parentfield": "",
+                    "parenttype": "",
+                    "reference1_code": "Reference1 Code",
+                    "reference1_desc": "Reference1 Desc",
+                    "reference2_code": "xyz",
+                    "reference2_desc": "xyz"
+                }
+            ],
+            "addr_list": [
+                {
+                    // "name": "",
+                    "custom_address_no": "0000515931",
+                    "address_title": "",
+                    "address_type": "Billing",
+                    "address_line1": "Dubai",
+                    "address_line2": "",
+                    "custom_address_line1_arabic": "سعودي",
+                    "custom_address_line2_arabic": "",
+                    "city": "Dubai",
+                    "custom_city_arabic": "سعودي",
+                    "county": "",
+                    "custom_street": "Dubai",
+                    "custom_street_arabic": "سعودي",
+                    "custom_house_no": 2222,
+                    "custom_house_no_arabic": 3333,
+                    "state": "",
+                    "emirate": "",
+                    // "country": "ae",
+                    "custom_country_name": "United Arab Emirates",
+                    "language": "",
+                    "pincode": "",
+                    "custom_po_box_no": 83453,
+                    "custom_postal_code": "0000",
+                    "custom_region_code": "13",
+                    "custom_region_name": "Dubai",
+                    "custom_email_ids": [
+                        {
+                            "email_id": "shajue@jaleelwp.com"
+                        },
+                        {
+                            "email_id": "jamshid.m@nestogroup.com"
+                        },
+                        {
+                            "email_id": "floorincharges@jaleelwp.com"
+                        },
+                        {
+                            "email_id": "harisibrahimae@gmail.com"
+                        },
+                        {
+                            "email_id": "nairvr@jaleelwp.com"
+                        }
+                    ],
+                    "custom_mobile_nos": [
+                        {
+                            "mobno1": ""
+                        }
+                    ],
+                    "custom_phone_nos": [
+                        {
+                            "phone1": 97142654134
+                        }
+                    ],
+                    "email_id": "",
+                    "phone": "",
+                    "fax": "",
+                    "tax_category": "",
+                    "custom_transportation_zone_code": "1542",
+                    "custom_transportation_zone_title": "",
+                    "is_primary_address": "",
+                    "is_shipping_address": "",
+                    "disabled": "",
+                    "is_your_company_address": "",
+                    "display": ""
+                },
+                {
+                    // "name": "",
+                    "custom_address_no": "0000576947",
+                    "address_title": "",
+                    "address_type": "Billing",
+                    "address_line1": "mahe",
+                    "address_line2": "",
+                    "custom_address_line1_arabic": "",
+                    "custom_address_line2_arabic": "",
+                    "city": "kerala",
+                    "custom_city_arabic": "",
+                    "county": "",
+                    "custom_street": "mahe",
+                    "custom_street_arabic": "",
+                    "custom_house_no": 4444,
+                    "custom_house_no_arabic": "",
+                    "state": "",
+                    "emirate": "",
+                    // "country": "ae",
+                    "custom_country_name": "United Arab Emirates",
+                    "custom_language": "",
+                    "pincode": "",
+                    "custom_po_box_no": "",
+                    "custom_postal_code": 123333,
+                    "custom_region_code": "13",
+                    "custom_region_name": "Abu Dhabi",
+                    "custom_email_ids": [
+                        {
+                            "email_id1": "testing@gmail.com"
+                        }
+                    ],
+                    "custom_mobile_nos": [
+                        {
+                            "mobno1": ""
+                        }
+                    ],
+                    "custom_phone_nos": [
+                        {
+                            "phone1": 89888888
+                        }
+                    ],
+                    "email_id": "",
+                    "phone": "",
+                    "fax": "",
+                    "tax_category": "",
+                    "custom_transportation_zone_code": "1542",
+                    "custom_transportation_zone_title": "",
+                    "is_primary_address": "",
+                    "is_shipping_address": "",
+                    "disabled": "",
+                    "is_your_company_address": "",
+                    "display": ""
+                }
+            ],
+            "contact_list": [
+                {
+                    // "name": "Mohammed Ajaz",
+                    "custom_contact_id": "0000043857",
+                    "first_name": "Ferrari",
+                    "middle_name": "",
+                    "last_name": "",
+                    "full_name": "",
+                    "email_id": "",
+                    "user": "",
+                    "address": "",
+                    "sync_with_google_contacts": "",
+                    "status": "",
+                    "salutation": "",
+                    "designation": "",
+                    "gender": "",
+                    "phone": "",
+                    "mobile_no": "",
+                    "company_name": "",
+                    "image": "",
+                    "google_contacts": "",
+                    "google_contacts_id": "",
+                    "pulled_from_google_contacts": "",
+                    "is_primary_contact": "",
+                    "is_billing_contact": "",
+                    "department": "",
+                    "unsubscribed": "",
+                    "email_ids": [
+                        {
+                            "email_id": "testing@gmail.com",
+                            "is_primary": 1
+                        }
+                    ],
+                    "phone_nos": [
+                        {
+                            "phone": 12345
+                        },
+                        {
+                            "phone": 678910
+                        },
+                        {
+                            "phone": 98765
+                        }
+                    ],
+                    "mobile_nos": [
+                        {
+                            "mobile": 789354
+                        },
+                        {
+                            "mobile": 4453556
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
