@@ -5,6 +5,7 @@
             "customer_group": "B2B",
             "custom_cuisine": "Cuisine 102",
             "customer_name": "Saloniiiii",
+            "custom_account_group": "DOCU",
             "custom_customer_code": "100459",
             "custom_customer_name_a": "Customer Salmaan Name A",
             "custom_customer_name_b": "Customer Salmaan Name B",
@@ -17,12 +18,18 @@
             "custom_reference1_code": "Reference1 Code 1004",
             "custom_reference1_desc": "Reference1 Desc 1004",
             "custom_vat_reg_no": "5%",
+            "account_manager": "",
             "nationality": "Nationality",
             "custom_reference2_code": "Reference2 Code 1004",
             "custom_reference2_desc": "Reference2 Desc 1004",
             "default_currency": "AED",
-            "custom_central_book": "0",
+            "custom_central_block": "0",
+            "custom_comments": "",
             "default_price_list": "Standard Selling",
+            "language": "",
+            "customer_primary_address": "",
+            "primary_address": "",
+            "customer_primary_contact": "",
             "industry": "Retail & Wholesale",
             "customer_pos_id": "xyz",
             "mobile_no": "9987514789",
@@ -59,37 +66,59 @@
             "custom_jh_classification_9_desc": "JH Classification 9 Desc",
             "custom_jh_classification_10_code": "JH Classification 10 Code",
             "custom_jh_classification_10_desc": "JH Classification 10 Desc",
+            "custom_condition_group_1": "",
+            "custom_condition_group_1_name": "",
+            "custom_condition_group_2": "",
+            "custom_condition_group_2_name": "",
+            "custom_condition_group_3": "",
+            "custom_condition_group_3_name": "",
+            "custom_condition_group_4": "",
+            "custom_condition_group_4_name": "",
+            "custom_condition_group_5": "",
+            "custom_condition_group_5_name": "",
+            "custom_condition_group_6": "",
+            "custom_condition_group_6_name": "",
+            "custom_condition_group_7": "",
+            "custom_condition_group_7_name": "",
+            "custom_condition_group_8": "",
+            "custom_condition_group_8_name": "",
+            "custom_condition_group_9": "",
+            "custom_condition_group_9_name": "",
+            "custom_condition_group_10": "",
+            "custom_condition_group_10_name": "",
+            "custom_industry_code_1": "",
+            "custom_industry_code_1_desc": "",
+            "custom_industry_code_2": "",
+            "custom_industry_code_2_desc": "",
+            "custom_industry_code_3": "",
+            "custom_industry_code_3_desc": "",
+            "custom_industry_code_4": "",
+            "custom_industry_code_4_desc": "",
+            "custom_industry_code_5": "",
+            "custom_industry_code_5_desc": "",
             "accounts": [],
-            "portal_users": [],
             "sales_team": [
-                // {
-                //     "name": "",
-                //     "idx": "",
-                //     "sales_person": "",
-                //     "allocated_percentage": "",
-                //     "allocated_amount": "",
-                //     "incentives": "",
-                //     "parent": "",
-                //     "parentfield": "",
-                //     "parenttype": ""
-                // }
+                {
+                    "sales_person": "",
+                    "allocated_percentage": "",
+                    "allocated_amount": "",
+                    "incentives": ""
+                    
+                }
             ],
             "credit_limits": [
-                // {
-                //     "name": "",
-                //     "idx": "",
-                //     "company": "",
-                //     "credit_limit": "",
-                //     "bypass_credit_limit_check": "",
-                //     "parent": "",
-                //     "parentfield": "",
-                //     "parenttype": ""
-                // }
+                {
+                    "company": "",
+                    "credit_limit": "",
+                    "bypass_credit_limit_check": ""
+                   
+                }
+            ],
+            "companies": [
+                ""
             ],
             "custom_distribution_channel": [
                 {
-                    // "name": "",
-                    // "idx": "",
                     "dccode": "03",
                     "salesorganization": 2100,
                     "division": "1234",
@@ -167,15 +196,10 @@
                     "customerheirarchytitle": "JT Credit Customer 90 Days",
                     "validityfrom": 20241010,
                     "validityto": 99991231,
-                    "parent": "",
-                    "parentfield": "",
-                    "parenttype": ""
                 }
             ],
             "custom_customer_company": [
                 {
-                    // "name": "",
-                    // "idx": "",
                     "company_code": "Jaleel",
                     "reconaccount_code": "ReconAccount Code 001",
                     "reconaccount_title": "ReconAccount Title 001",
@@ -201,9 +225,6 @@
                     "delivery_area_desc": "AD - KHALIDIYA STREET",
                     "customer_text": "Customer Text",
                     "customer_type": "Customer Type",
-                    "parent": "",
-                    "parentfield": "",
-                    "parenttype": "",
                     "reference1_code": "Reference1 Code",
                     "reference1_desc": "Reference1 Desc",
                     "reference2_code": "xyz",
@@ -212,7 +233,6 @@
             ],
             "addr_list": [
                 {
-                    // "name": "",
                     "custom_address_no": "0000515931",
                     "address_title": "",
                     "address_type": "Billing",
@@ -229,7 +249,7 @@
                     "custom_house_no_arabic": 3333,
                     "state": "",
                     "emirate": "",
-                    // "country": "ae",
+                    "country": "ae",
                     "custom_country_name": "United Arab Emirates",
                     "language": "",
                     "pincode": "",
@@ -240,18 +260,6 @@
                     "custom_email_ids": [
                         {
                             "email_id": "shajue@jaleelwp.com"
-                        },
-                        {
-                            "email_id": "jamshid.m@nestogroup.com"
-                        },
-                        {
-                            "email_id": "floorincharges@jaleelwp.com"
-                        },
-                        {
-                            "email_id": "harisibrahimae@gmail.com"
-                        },
-                        {
-                            "email_id": "nairvr@jaleelwp.com"
                         }
                     ],
                     "custom_mobile_nos": [
@@ -275,64 +283,10 @@
                     "disabled": "",
                     "is_your_company_address": "",
                     "display": ""
-                },
-                {
-                    // "name": "",
-                    "custom_address_no": "0000576947",
-                    "address_title": "",
-                    "address_type": "Billing",
-                    "address_line1": "mahe",
-                    "address_line2": "",
-                    "custom_address_line1_arabic": "",
-                    "custom_address_line2_arabic": "",
-                    "city": "kerala",
-                    "custom_city_arabic": "",
-                    "county": "",
-                    "custom_street": "mahe",
-                    "custom_street_arabic": "",
-                    "custom_house_no": 4444,
-                    "custom_house_no_arabic": "",
-                    "state": "",
-                    "emirate": "",
-                    // "country": "ae",
-                    "custom_country_name": "United Arab Emirates",
-                    "custom_language": "",
-                    "pincode": "",
-                    "custom_po_box_no": "",
-                    "custom_postal_code": 123333,
-                    "custom_region_code": "13",
-                    "custom_region_name": "Abu Dhabi",
-                    "custom_email_ids": [
-                        {
-                            "email_id1": "testing@gmail.com"
-                        }
-                    ],
-                    "custom_mobile_nos": [
-                        {
-                            "mobno1": ""
-                        }
-                    ],
-                    "custom_phone_nos": [
-                        {
-                            "phone1": 89888888
-                        }
-                    ],
-                    "email_id": "",
-                    "phone": "",
-                    "fax": "",
-                    "tax_category": "",
-                    "custom_transportation_zone_code": "1542",
-                    "custom_transportation_zone_title": "",
-                    "is_primary_address": "",
-                    "is_shipping_address": "",
-                    "disabled": "",
-                    "is_your_company_address": "",
-                    "display": ""
                 }
-            ],
+           ],
             "contact_list": [
                 {
-                    // "name": "Mohammed Ajaz",
                     "custom_contact_id": "0000043857",
                     "first_name": "Ferrari",
                     "middle_name": "",
@@ -366,20 +320,11 @@
                     "phone_nos": [
                         {
                             "phone": 12345
-                        },
-                        {
-                            "phone": 678910
-                        },
-                        {
-                            "phone": 98765
                         }
                     ],
                     "mobile_nos": [
                         {
                             "mobile": 789354
-                        },
-                        {
-                            "mobile": 4453556
                         }
                     ]
                 }
